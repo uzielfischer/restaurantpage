@@ -8,6 +8,7 @@
     flex-direction: column;
     height: 400px;
     margin-top: 10px;
+    padding: 3rem 0 0 0;
 }
 
 .footer > .logo-footer img {
